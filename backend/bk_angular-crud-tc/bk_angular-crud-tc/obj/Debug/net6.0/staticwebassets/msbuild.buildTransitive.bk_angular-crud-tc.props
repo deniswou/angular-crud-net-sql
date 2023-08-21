@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\bk_angular-crud-tc.props" />
+</Project>

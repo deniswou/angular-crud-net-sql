@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bk_angular-crud-tc", "bk_angular-crud-tc\bk_angular-crud-tc.csproj", "{77C30CD5-3E30-4476-81CF-4CED4A5C4FEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77C30CD5-3E30-4476-81CF-4CED4A5C4FEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77C30CD5-3E30-4476-81CF-4CED4A5C4FEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77C30CD5-3E30-4476-81CF-4CED4A5C4FEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77C30CD5-3E30-4476-81CF-4CED4A5C4FEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A1839AA-87BE-441B-BB7D-F7382C87643A}
+	EndGlobalSection
+EndGlobal

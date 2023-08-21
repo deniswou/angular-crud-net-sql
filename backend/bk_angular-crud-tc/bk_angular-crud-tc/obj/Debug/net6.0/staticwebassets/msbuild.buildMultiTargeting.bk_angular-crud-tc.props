@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\bk_angular-crud-tc.props" />
+</Project>
